@@ -7,3 +7,7 @@
 * [extra code](https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/prompts_pipelining#:~:text=from%20langchain.prompts-,/Users/harrisonchase/,-.pyenv/versions/3.9.1)
 
 * [extra code](https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/prompts_pipelining#:~:text=from%20langchain.schema-,/Users/harrisonchase/,-.pyenv/versions/3.9.1)
+
+* [closing bracket missing](https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/length_based#:~:text=examples%20%3D%20%5B%0A%20%20%20%20%7B%22input%22%3A%20%22happy%22%2C%20%22output%22%3A%20%22sad%22%7D%2C)
+
+* [This part seems useless](https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/ngram_overlap#:~:text=examples%20%3D%20%5B%0A%20%20%20%20%7B%22input%22%3A%20%22happy%22%2C%20%22output%22)

@@ -1,1 +1,6 @@
 langchain==0.0.262
+faiss-cpu
+nltk
+openai
+chromadb
+tiktoken
