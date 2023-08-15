@@ -11,3 +11,5 @@
 * [closing bracket missing](https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/length_based#:~:text=examples%20%3D%20%5B%0A%20%20%20%20%7B%22input%22%3A%20%22happy%22%2C%20%22output%22%3A%20%22sad%22%7D%2C)
 
 * [This part seems useless](https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/ngram_overlap#:~:text=examples%20%3D%20%5B%0A%20%20%20%20%7B%22input%22%3A%20%22happy%22%2C%20%22output%22)
+
+* [Missing imports](https://python.langchain.com/docs/modules/model_io/models/chat/llm_chain#:~:text=You%20can%20use%20the%20existing%20LLMChain%20in%20a%20very%20similar%20way%20to%20before%20%2D%20provide%20a%20prompt%20and%20a%20model.)
