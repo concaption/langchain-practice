@@ -6,3 +6,4 @@ chromadb
 tiktoken
 wikipedia
 google-search-results
+unstructured==0.7.12
